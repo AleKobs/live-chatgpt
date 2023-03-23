@@ -1,0 +1,13 @@
+#ingredientes>article>form {
+    flex: 1;
+    display: flex;
+    gap: 20px;
+}
+
+#ingredientes>article>form>input[type="text"] {
+    flex: 1;
+}
+
+#copyForm>p>input {
+    width: 100%;
+}
